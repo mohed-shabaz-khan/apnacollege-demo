@@ -1,6 +1,31 @@
-venv/
 __pycache__/
 *.pyc
-instance/
-users.db
+*.pyo
+*.pyd
+*.db
 .env
+.vscode/
+.idea/
+*.log
+data/
+*.sqlite3
+*.sqlite
+*.egg-info/
+.DS_Store
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+.eggs/
+*.egg
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
